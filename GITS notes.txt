@@ -1,0 +1,55 @@
+1. clear  ->                        clear terminal
+2. ls  ->                           list of file
+3. cd   ->                          change directory
+4. ls -a   ->                       show hidden file in mac/linux
+5. ls -force ->                     show hidden file in window
+6. git add [file name]  ->          after modification apply this command
+7. git status ->                    to check the status of directory
+8. git commit -m 'comments' ->       need to commit if u have done any changes
+9.git push origin main    ->         upload local repo(laptop) to remote repo(github)
+10.git branch              ->        to know current branch
+11.git checkout -b practise  ->       Create and Switch to the practise Branch (If Needed)
+12.git push -u origin practise  ->    Push the Branch to the Remote Repository
+13.git branch -r        ->            Verify the Remote Branch
+ 
+
+
+INIT COMMAND-->
+
+Intializing  init for the first time->
+
+
+14.git remote add origin {link}
+15.git remote-v  -->[origin  https://github.com/AnkitM-01/localrepo.git (fetch)
+                     origin  https://github.com/AnkitM-01/localrepo.git (push)]
+
+------------------------------------BRANCH---------------------------------------------------
+
+
+
+1.git branch                         ->[To check the git branch]
+2.git branch -m main                 ->[To rename branch]
+3.git checkout [branch name]         -> To move from current to another branch
+4.git checkout -b [new branch name]  -> for creating new branch 
+5. git branch -d  [branch name]      ->for deleting branch
+
+
+
+-------------------------merging code-----------------------------------------------------
+
+
+1.git diff [branch name]    ->    [To compare  between branch]
+2.directly in github 
+3.git pull origin main
+
+
+-------------------------------RESOLVING MERGE CONDITION-------------------------------------------
+
+
+
+
+
+
+
+
+
