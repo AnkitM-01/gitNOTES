@@ -43,8 +43,9 @@ Intializing  init for the first time->
 3.git pull origin main
 
 
--------------------------------RESOLVING MERGE CONDITION-------------------------------------------
-
+--------------------------------------------------------------------------
+git remote add ankit-origin https://github.com/AnkitM-01/murshid.git
+PS C:\Users\user\Desktop\mursid\mushid-landingpage> git push ankit-origin murshidProject
 
 
 
