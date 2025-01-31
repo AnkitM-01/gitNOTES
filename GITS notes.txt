@@ -3,7 +3,7 @@
 3. cd   ->                          change directory
 4. ls -a   ->                       show hidden file in mac/linux
 5. ls -force ->                     show hidden file in window
-6. git add [file name]  ->          after modification apply this command
+6. git add .[file name]  ->          after modification apply this command
 7. git status ->                    to check the status of directory
 8. git commit -m 'comments' ->       need to commit if u have done any changes
 9.git push origin main    ->         upload local repo(laptop) to remote repo(github)
